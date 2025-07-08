@@ -1,0 +1,6 @@
+# Re
+env
+*.env
+**/.env
+.venv/
+
