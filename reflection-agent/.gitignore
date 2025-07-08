@@ -1,7 +1,5 @@
 # Re
-.langgraphcourse/.env/
-
-# Env files:
-
-./.venv/
-
+reflection-agent/.env
+*.env
+**/.env
+.venv/
